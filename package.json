@@ -1,6 +1,6 @@
 {
-  "name": "timeout-controller",
-  "version": "0.1.2",
+  "name": "timeoutx",
+  "version": "0.1.0",
   "description": "timeout controller",
   "source": "src/index.ts",
   "types": "dist/types.d.ts",
